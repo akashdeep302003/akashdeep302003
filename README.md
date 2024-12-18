@@ -1,4 +1,4 @@
-<h1>Hi, I'm Akashdeep, an <a href="https://linkedin.com/in/Josh](https://www.linkedin.com/in/akashdeep-akahsdeep-442242253/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Akashdeep, an <a href="https://www.linkedin.com/in/akashdeep-akahsdeep-442242253/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
