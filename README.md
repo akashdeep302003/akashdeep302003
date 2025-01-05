@@ -15,5 +15,5 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/sanhotra22
-[linkedin]: https://linkedin.com/in/akashdeep
+[instagram]: https://www.instagram.com/sanhotraa22
+[linkedin]: https://linkedin.com/in/akashdeep akashdeep
